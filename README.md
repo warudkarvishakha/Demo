@@ -1,1 +1,1 @@
-# Repo for Git command demonstration.
+# Repository for Git command demonstration.
